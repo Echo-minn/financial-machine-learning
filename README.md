@@ -1,3 +1,6 @@
+商务智能课程学习
+武汉大学-软件工程
+
 # Financial Machine Learning and Data Science
 
 A curated list of practical financial machine learning (FinML) tools and applications. This collection is primarily in Python. 
